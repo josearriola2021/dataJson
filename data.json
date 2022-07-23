@@ -1,49 +1,49 @@
 {"productos": [
     {
         "nombre": "Atún Florida",
-        "imagen": "./img/atun-florida.jpeg",
+        "imagen": "https://i.postimg.cc/FsPymkSP/atun-florida.jpg",
         "precio": 5,
         "itemcategoria": "Conservas",
         "categoria": "Abarrotes"
     },
     {
         "nombre": "Cerveza Corona",
-        "imagen": "./img/cerveza-corona.jpeg",
+        "imagen": "https://i.postimg.cc/K8RnYcrm/cerveza-corona.jpg",
         "precio": 4,
         "itemcategoria": "Cervezas",
         "categoria": "Bebidas"
     },
     {
         "nombre": "Fideos Molitalia",
-        "imagen": "./img/fideos-molitalia.jpeg",
+        "imagen": "https://i.postimg.cc/6pgC4sYn/fideos-molitalia.jpg",
         "precio": 2.5,
         "itemcategoria": "Fideos",
         "categoria": "Abarrotes"
     },
     {
         "nombre": "Inka Kola",
-        "imagen": "./img/gaseosa-personal-inka.jpeg",
+        "imagen": "https://i.postimg.cc/VNtnj7VT/gaseosa-personal-inka.jpg",
         "precio": 2,
         "itemcategoria": "Gaseosas",
         "categoria": "Bebidas"
     },
     {
         "nombre": "Pasta",
-        "imagen": "./img/pasta.jpeg",
+        "imagen": "https://i.postimg.cc/3NtvKzky/pasta.jpg",
         "precio": 1.5,
         "itemcategoria": "Fideos",
         "categoria": "Abarrotes"
     },
     {
         "nombre": "Lejía Clorox",
-        "imagen": "./img/lejia-clorox.jpeg",
+        "imagen": "https://i.postimg.cc/W36Zydjw/lejia-clorox.jpg",
         "precio": 3.2,
         "itemcategoria": "Limpieza de baño",
         "categoria": "Limpieza"
     },
     {
         "nombre": "Aceite Primor",
-        "imagen": "./img/aceite-primor.jpeg",
+        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
         "itemcategoria": "Aceite",
         "categoria": "Abarrotes"
