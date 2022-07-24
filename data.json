@@ -142,19 +142,24 @@
   ],
   "categorias": [
     {
-        "nombre": "Abarrotes"
+        "nombre": "Abarrotes",
+        "subcategorias": ["Arroz", "Aceite", "Azúcar", "Conservas", "Fideos", "Galletas y golosinas", "Snacks y piqueos"]
     },
     {
-        "nombre": "Lacteos y Huevos"
+        "nombre": "Lacteos y Huevos",
+        "subcategorias": ["Leche", "Yogurt", "Huevos", "Mantequilla"]
     },
     {
-        "nombre": "Carnes y Aves"
+        "nombre": "Carnes y Aves",
+        "subcategorias": ["Pollo", "Res", "Cerdo"]
     },
     {
-        "nombre": "Bebidas"
+        "nombre": "Bebidas",
+        "subcategorias": ["Licores", "Vinos", "Cervezas", "Gaseosas", "Aguas", "Jugos", "Bebidas Funcionales"]
     },
     {
-        "nombre": "Limpieza"
+        "nombre": "Limpieza",
+        "subcategorias": ["Cuidado de la ropa", "Cuidado del hogar", "Limpieza de baño"]
     }
   ]
 }
