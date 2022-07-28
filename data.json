@@ -1,5 +1,6 @@
 {"productos": [
     {
+        "id":1,
         "nombre": "Atún Florida",
         "imagen": "https://i.postimg.cc/FsPymkSP/atun-florida.jpg",
         "precio": 5,
@@ -7,6 +8,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":2,
         "nombre": "Cerveza Corona",
         "imagen": "https://i.postimg.cc/K8RnYcrm/cerveza-corona.jpg",
         "precio": 4,
@@ -14,6 +16,7 @@
         "categoria": "Bebidas"
     },
     {
+        "id":3,
         "nombre": "Fideos Molitalia",
         "imagen": "https://i.postimg.cc/6pgC4sYn/fideos-molitalia.jpg",
         "precio": 2.5,
@@ -21,6 +24,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":4,
         "nombre": "Inka Kola",
         "imagen": "https://i.postimg.cc/VNtnj7VT/gaseosa-personal-inka.jpg",
         "precio": 2,
@@ -28,6 +32,7 @@
         "categoria": "Bebidas"
     },
     {
+        "id":5,
         "nombre": "Pasta",
         "imagen": "https://i.postimg.cc/3NtvKzky/pasta.jpg",
         "precio": 1.5,
@@ -35,6 +40,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":6,
         "nombre": "Lejía Clorox",
         "imagen": "https://i.postimg.cc/W36Zydjw/lejia-clorox.jpg",
         "precio": 3.2,
@@ -42,6 +48,7 @@
         "categoria": "Limpieza"
     },
     {
+        "id":7,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -49,6 +56,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":8,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -56,6 +64,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":9,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -63,6 +72,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":10,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -70,6 +80,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":11,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -77,6 +88,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":12,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -84,6 +96,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":13,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -91,6 +104,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":14,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -98,6 +112,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":15,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -105,6 +120,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":16,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -112,6 +128,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":17,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -119,6 +136,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":18,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -126,6 +144,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":19,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
@@ -133,6 +152,7 @@
         "categoria": "Abarrotes"
     },
     {
+        "id":20,
         "nombre": "Aceite Primor",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
         "precio": 5.5,
