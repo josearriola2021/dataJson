@@ -210,7 +210,7 @@
     {
         "id":27,
         "nombre": "Mantequilla Gloria Pote 390g",
-        "imagen": "https://i.postimg.cc/mDBNVyxf/chocolate-triangulocaja.jpg",
+        "imagen": "https://i.postimg.cc/PqV6Nddc/mantequilla-gloriapote.jpg",
         "precio": 16.90,
         "itemcategoria": "Mantequilla",
         "categoria": "Lacteos y Huevos"
@@ -218,15 +218,7 @@
     {
         "id":28,
         "nombre": "Mantequilla Gloria sin sal 200g",
-        "imagen": "https://i.postimg.cc/mDBNVyxf/chocolate-triangulocaja.jpg",
-        "precio": 9.40,
-        "itemcategoria": "Mantequilla",
-        "categoria": "Lacteos y Huevos"
-    },
-    {
-        "id":29,
-        "nombre": "Mantequilla Gloria sin sal 200g",
-        "imagen": "https://i.postimg.cc/mDBNVyxf/chocolate-triangulocaja.jpg",
+        "imagen": "https://i.postimg.cc/05M4MKMC/mantequilla-gloriasinsalbarra.jpg",
         "precio": 9.40,
         "itemcategoria": "Mantequilla",
         "categoria": "Lacteos y Huevos"
