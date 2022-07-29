@@ -126,6 +126,110 @@
         "precio": 28,
         "itemcategoria": "Galletas y golosinas",
         "categoria": "Abarrotes"
+    },
+    {
+        "id":17,
+        "nombre": "Cheetos Horneados queso",
+        "imagen": "https://i.postimg.cc/J43PZN1j/piqueos-cheetoshorneadoqueso.jpg",
+        "precio": 6.90,
+        "itemcategoria": "Snack y piqueos",
+        "categoria": "Abarrotes"
+    },
+    {
+        "id":18,
+        "nombre": "Cheese Tris con queso",
+        "imagen": "https://i.postimg.cc/021VzWq8/piqueos-cheesetrisqueso.jpg",
+        "precio": 5,
+        "itemcategoria": "Snack y piqueos",
+        "categoria": "Abarrotes"
+    },
+    {
+        "id":19,
+        "nombre": "Piqueo Snax",
+        "imagen": "https://i.postimg.cc/ZYdfKk27/snacks-piqueosnax.jpg",
+        "precio": 5,
+        "itemcategoria": "Snack y piqueos",
+        "categoria": "Abarrotes"
+    },
+    {
+        "id":20,
+        "nombre": "Leche Gloria Paquete 6un",
+        "imagen": "https://i.postimg.cc/Pq53tCnY/leche-gloriapaquete.jpg",
+        "precio": 21.60,
+        "itemcategoria": "Leche",
+        "categoria": "Lacteos y Huevos"
+    },
+    {
+        "id":21,
+        "nombre": "Leche Gloria Light Paquete 6un",
+        "imagen": "https://i.postimg.cc/KzK0MCzY/leche-gloriapaquetelight.jpg",
+        "precio": 21.60,
+        "itemcategoria": "Leche",
+        "categoria": "Lacteos y Huevos"
+    },
+    {
+        "id":22,
+        "nombre": "Leche Evaporada Ideal Paquete 6un",
+        "imagen": "https://i.postimg.cc/vBp3LXgt/leche-idealpaquete.jpg",
+        "precio": 20.20,
+        "itemcategoria": "Leche",
+        "categoria": "Lacteos y Huevos"
+    },
+    {
+        "id":23,
+        "nombre": "Yogurt Gloria Sabor Fresa galonera 1.7kg",
+        "imagen": "https://i.postimg.cc/zG52cddd/yogurt-gloriagalonerafresa.jpg",
+        "precio": 7.99,
+        "itemcategoria": "Yogurt",
+        "categoria": "Lacteos y Huevos"
+    },
+    {
+        "id":24,
+        "nombre": "Yogurt Yoleit Fresa botella 1kg",
+        "imagen": "https://i.postimg.cc/Hk2vDQRT/yogurt-yoleitbotella1kgfresa.jpg",
+        "precio": 6.80,
+        "itemcategoria": "Yogurt",
+        "categoria": "Lacteos y Huevos"
+    },
+    {
+        "id":25,
+        "nombre": "Huevos de gallina BELL'S 15un",
+        "imagen": "https://i.postimg.cc/5N8kpcmY/huevos-bells15un.jpg",
+        "precio": 9.40,
+        "itemcategoria": "Huevos",
+        "categoria": "Lacteos y Huevos"
+    },
+    {
+        "id":26,
+        "nombre": "Huevos Pardos LA CALERA 30un",
+        "imagen": "https://i.postimg.cc/brkL6b1c/huevos-lacalera30un.jpg",
+        "precio": 9.40,
+        "itemcategoria": "Huevos",
+        "categoria": "Lacteos y Huevos"
+    },
+    {
+        "id":27,
+        "nombre": "Mantequilla Gloria Pote 390g",
+        "imagen": "https://i.postimg.cc/mDBNVyxf/chocolate-triangulocaja.jpg",
+        "precio": 16.90,
+        "itemcategoria": "Mantequilla",
+        "categoria": "Lacteos y Huevos"
+    },
+    {
+        "id":28,
+        "nombre": "Mantequilla Gloria sin sal 200g",
+        "imagen": "https://i.postimg.cc/mDBNVyxf/chocolate-triangulocaja.jpg",
+        "precio": 9.40,
+        "itemcategoria": "Mantequilla",
+        "categoria": "Lacteos y Huevos"
+    },
+    {
+        "id":29,
+        "nombre": "Mantequilla Gloria sin sal 200g",
+        "imagen": "https://i.postimg.cc/mDBNVyxf/chocolate-triangulocaja.jpg",
+        "precio": 9.40,
+        "itemcategoria": "Mantequilla",
+        "categoria": "Lacteos y Huevos"
     }
   ],
   "categorias": [
