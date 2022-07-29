@@ -57,106 +57,74 @@
     },
     {
         "id":8,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
+        "nombre": "Arroz 5kg",
+        "imagen": "https://i.postimg.cc/15tBLB8y/arroz-5kg.jpg",
+        "precio": 12,
+        "itemcategoria": "Arroz",
         "categoria": "Abarrotes"
     },
     {
         "id":9,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
+        "nombre": "Azúcar 2kg",
+        "imagen": "https://i.postimg.cc/cJQBQ5bB/azucar-2kg.jpg",
+        "precio": 12,
+        "itemcategoria": "Azúcar",
         "categoria": "Abarrotes"
     },
     {
         "id":10,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
+        "nombre": "Galletas Morochas",
+        "imagen": "https://i.postimg.cc/PrRyhDDY/galletas-morochas.jpg",
+        "precio": 12,
+        "itemcategoria": "Galletas y golosinas",
         "categoria": "Abarrotes"
     },
     {
         "id":11,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
+        "nombre": "Galletas Margarita",
+        "imagen": "https://i.postimg.cc/CxnNKKCt/galletas-margarita.jpg",
+        "precio": 3.80,
+        "itemcategoria": "Galletas y golosinas",
         "categoria": "Abarrotes"
     },
     {
         "id":12,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
+        "nombre": "Galletas Picaras",
+        "imagen": "https://i.postimg.cc/hj1Mq38t/galletas-picaras.jpg",
+        "precio": 4.60,
+        "itemcategoria": "Galletas y golosinas",
         "categoria": "Abarrotes"
     },
     {
         "id":13,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
+        "nombre": "Galletas Casino",
+        "imagen": "https://i.postimg.cc/66zzjg5H/galletas-casino.jpg",
+        "precio": 4.20,
+        "itemcategoria": "Galletas y golosinas",
         "categoria": "Abarrotes"
     },
     {
         "id":14,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
+        "nombre": "Chocolate Beso de Moza",
+        "imagen": "https://i.postimg.cc/FzFpFgGg/chocolate-besodemoza.jpg",
+        "precio": 10,
+        "itemcategoria": "Galletas y golosinas",
         "categoria": "Abarrotes"
     },
     {
         "id":15,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
+        "nombre": "Chocolate Sublime",
+        "imagen": "https://i.postimg.cc/SK0GYpDK/chocolate-sublimecaja.jpg",
+        "precio": 13,
+        "itemcategoria": "Galletas y golosinas",
         "categoria": "Abarrotes"
     },
     {
         "id":16,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
-        "categoria": "Abarrotes"
-    },
-    {
-        "id":17,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
-        "categoria": "Abarrotes"
-    },
-    {
-        "id":18,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
-        "categoria": "Abarrotes"
-    },
-    {
-        "id":19,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
-        "categoria": "Abarrotes"
-    },
-    {
-        "id":20,
-        "nombre": "Aceite Primor",
-        "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
-        "itemcategoria": "Aceite",
+        "nombre": "Chocolate Triángulo",
+        "imagen": "https://i.postimg.cc/mDBNVyxf/chocolate-triangulocaja.jpg",
+        "precio": 28,
+        "itemcategoria": "Galletas y golosinas",
         "categoria": "Abarrotes"
     }
   ],
