@@ -249,15 +249,24 @@
   "especificaciones":[
     {
         "id":1,
-        "presentacion":"Lata",
-        "porcionSugerida": "100g",
-        "azucares":"sin azucar",
-        "calorias":"150 kcal por 100g",
-        "carbohidratos":"0g por 100g",
-        "grasas":4.5,
-        "medioDeConservacion":"Lugar Fresco y seguro",
-        "contenidoNeto":"150g",
-        "denominacion":"Filete de Atún en Aceite Vegetal 150 gr"
+        "descripcion":[
+            {
+                "titulo":"Presentacion/Empaque",
+                "detalle":"Lata"
+            },
+            {
+                "titulo":"Porción Sugerida",
+                "detalle":"100g"
+            },
+            {
+                "titulo":"Azúcares por porción",
+                "detalle":"sin azúcar"
+            },
+            {
+                "titulo":"Calorías",
+                "detalle":"150 kcal por 100g"
+            }
+        ]       
     }
   ]
 }
