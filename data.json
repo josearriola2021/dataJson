@@ -264,7 +264,23 @@
             },
             {
                 "titulo":"Calorías",
-                "detalle":"150 kcal por 100g"
+                "detalle":"140 kcal por 100g"
+            },
+            {
+                "titulo":"Carbohidratos",
+                "detalle":"0 g por 100 g"
+            },
+            {
+                "titulo":"Medio de Conservación",
+                "detalle":"Lugar Fresco y Seco"
+            },
+            {
+                "titulo":"Porciones por envase",
+                "detalle":"1"
+            },
+            {
+                "titulo":"Denominación",
+                "detalle":"Trozos de Atún en Aceite Vegetal 150g"
             }
         ]       
     }
