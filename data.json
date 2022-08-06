@@ -9,15 +9,15 @@
     },
     {
         "id":2,
-        "nombre": "Cerveza Corona",
-        "imagen": "https://i.postimg.cc/K8RnYcrm/cerveza-corona.jpg",
+        "nombre": "Cerveza Coronita Extra 6 Pack",
+        "imagen": "https://i.postimg.cc/prW40jjX/cerveza-corona-6un.webp",
         "precio": 4,
         "itemcategoria": "Cervezas",
         "categoria": "Bebidas"
     },
     {
         "id":3,
-        "nombre": "Fideos Molitalia",
+        "nombre": "Fideos Molitalia Bolsa 950g",
         "imagen": "https://i.postimg.cc/6pgC4sYn/fideos-molitalia.jpg",
         "precio": 2.5,
         "itemcategoria": "Fideos",
@@ -25,48 +25,48 @@
     },
     {
         "id":4,
-        "nombre": "Inka Kola",
-        "imagen": "https://i.postimg.cc/VNtnj7VT/gaseosa-personal-inka.jpg",
-        "precio": 2,
+        "nombre": "Inka Kola Lata 355ml",
+        "imagen": "https://i.postimg.cc/4dvfjpFD/gaseosalata-personal-inka.jpg",
+        "precio": 5.90,
         "itemcategoria": "Gaseosas",
         "categoria": "Bebidas"
     },
     {
         "id":5,
         "nombre": "Pasta",
-        "imagen": "https://i.postimg.cc/3NtvKzky/pasta.jpg",
-        "precio": 1.5,
+        "imagen": "https://i.postimg.cc/662q9G4G/pasta-tornillo-molitalia.webp",
+        "precio": 2.29,
         "itemcategoria": "Fideos",
         "categoria": "Abarrotes"
     },
     {
         "id":6,
-        "nombre": "Lejía Clorox",
-        "imagen": "https://i.postimg.cc/W36Zydjw/lejia-clorox.jpg",
-        "precio": 3.2,
+        "nombre": "Lejía Clorox Botella 1kg",
+        "imagen": "https://i.postimg.cc/vTqpKv5H/lejia-clorox.webp",
+        "precio": 4.50,
         "itemcategoria": "Limpieza de baño",
         "categoria": "Limpieza"
     },
     {
         "id":7,
-        "nombre": "Aceite Primor",
+        "nombre": "Aceite Primor Botella 900ml",
         "imagen": "https://i.postimg.cc/dtQ2zjhk/aceite-primor.jpg",
-        "precio": 5.5,
+        "precio": 11.50,
         "itemcategoria": "Aceite",
         "categoria": "Abarrotes"
     },
     {
         "id":8,
-        "nombre": "Arroz 5kg",
-        "imagen": "https://i.postimg.cc/15tBLB8y/arroz-5kg.jpg",
-        "precio": 12,
+        "nombre": "Arroz Bell's 5kg",
+        "imagen": "https://i.postimg.cc/Y04qSjrR/arroz-bells-5kg.webp",
+        "precio": 16.70,
         "itemcategoria": "Arroz",
         "categoria": "Abarrotes"
     },
     {
         "id":9,
-        "nombre": "Azúcar 2kg",
-        "imagen": "https://i.postimg.cc/cJQBQ5bB/azucar-2kg.jpg",
+        "nombre": "Azúcar Rubia Bell's Bolsa 4kg",
+        "imagen": "https://i.postimg.cc/Znqjvt2V/azucar-bells-4kg.webp",
         "precio": 12,
         "itemcategoria": "Azúcar",
         "categoria": "Abarrotes"
@@ -74,7 +74,7 @@
     {
         "id":10,
         "nombre": "Galletas Morochas",
-        "imagen": "https://i.postimg.cc/PrRyhDDY/galletas-morochas.jpg",
+        "imagen": "https://i.postimg.cc/ZKQBStc4/galleta-morochas-6un.webp",
         "precio": 12,
         "itemcategoria": "Galletas y golosinas",
         "categoria": "Abarrotes"
@@ -281,6 +281,323 @@
             {
                 "titulo":"Denominación",
                 "detalle":"Trozos de Atún en Aceite Vegetal 150g"
+            }
+        ]       
+    },
+    {
+        "id":2,
+        "descripcion":[
+            {
+                "titulo":"Color",
+                "detalle":"Dorado"
+            },
+            {
+                "titulo":"Presentación",
+                "detalle":"Pack Botella"
+            },
+            {
+                "titulo":"Pack",
+                "detalle":"6"
+            },
+            {
+                "titulo":"Composición",
+                "detalle":"Malta de cebada"
+            },
+            {
+                "titulo":"Denominación/variedad",
+                "detalle":"Lager"
+            },
+            {
+                "titulo":"Volumen neto",
+                "detalle":"210 ml"
+            },
+            {
+                "titulo":"Graduación Alcohólica",
+                "detalle":"4.5° GL"
+            },
+            {
+                "titulo":"Advertencias de consumo",
+                "detalle":"Tomar bebidas alcohólicas en exceso es dañino. Consumir preferentemente antes de la fecha indicada en el envase"
+            }
+        ]       
+    },
+    {
+        "id":3,
+        "descripcion":[
+            {
+                "titulo":"Presentacion/Empaque",
+                "detalle":"Bolsa"
+            },
+            {
+                "titulo":"Producto Preparado",
+                "detalle":"No"
+            },
+            {
+                "titulo":"Relleno",
+                "detalle":"No"
+            },
+            {
+                "titulo":"Porción Sugerida",
+                "detalle":"80"
+            },
+            {
+                "titulo":"Alergénos Declarados",
+                "detalle":"Contiene Gluten. Elaborado en instalaciones que procesan productos que contienen leche y/o productos lácteos"
+            }
+        ]       
+    },
+    {
+        "id":4,
+        "descripcion":[
+            {
+                "titulo":"Presentación",
+                "detalle":"Lata"
+            },
+            {
+                "titulo":"Carbohidratos Totales",
+                "detalle":"39g"
+            },
+            {
+                "titulo":"Pack",
+                "detalle":"12"
+            },
+            {
+                "titulo":"Porción Sugerida",
+                "detalle":"355ml"
+            },
+            {
+                "titulo":"Alergénos Declarados",
+                "detalle":"Niguno"
+            },
+            {
+                "titulo":"Azúcares por porción",
+                "detalle":"39g"
+            },
+            {
+                "titulo":"Calorías por porción",
+                "detalle":"140"
+            },
+            {
+                "titulo":"Tipo de edulcorante",
+                "detalle":"Azúcar"
+            },
+            {
+                "titulo":"Advertencias de almacenamiento",
+                "detalle":"Lugar Fresco y Seco"
+            },
+            {
+                "titulo":"Advertencias de consumo",
+                "detalle":"Alto en azúcar"
+            }
+        ]       
+    },
+    {
+        "id":5,
+        "descripcion":[
+            {
+                "titulo":"Presentación/Empaque",
+                "detalle":"Paquete"
+            },
+            {
+                "titulo":"Producto Preparado",
+                "detalle":"Sí"
+            },
+            {
+                "titulo":"Porción Sugerida",
+                "detalle":"80g"
+            },
+            {
+                "titulo":"Tipo de Producto",
+                "detalle":"Fusilli / Tornillo"
+            },
+            {
+                "titulo":"Alergénos Declarados",
+                "detalle":"Contiene Gluten"
+            },
+            {
+                "titulo":"Calorías por porción",
+                "detalle":"290kCal"
+            },
+            {
+                "titulo":"Descripción Nutricional",
+                "detalle":"Sin colorantes"
+            },
+            {
+                "titulo":"Contenido Neto",
+                "detalle":"250g"
+            },
+            {
+                "titulo":"Denominación/variedad",
+                "detalle":"Tornillo Especial"
+            }
+        ]       
+    },
+    {
+        "id":6,
+        "descripcion":[
+            {
+                "titulo":"Presentación/Empaque",
+                "detalle":"Botella"
+            },
+            {
+                "titulo":"Incluye dosificador",
+                "detalle":"No"
+            },
+            {
+                "titulo":"Descripción Técnica",
+                "detalle":"Con lejía. Líquido"
+            },
+            {
+                "titulo":"Unidades por paquete",
+                "detalle":"1"
+            },
+            {
+                "titulo":"Aroma",
+                "detalle":"Tradicional"
+            },
+            {
+                "titulo":"Tipo de Producto",
+                "detalle":"Lejía"
+            },
+            {
+                "titulo":"Beneficios de Uso",
+                "detalle":"Limpieza, desinfección, anti-amarilleo"
+            },
+            {
+                "titulo":"Superficies de Uso",
+                "detalle":"Baños, tinas, pisos, mayólicas, lavaderos de cocina, ropa, etc"
+            },
+            {
+                "titulo":"Denominación/variedad",
+                "detalle":"Tradicional"
+            }
+        ]       
+    },
+    {
+        "id":7,
+        "descripcion":[
+            {
+                "titulo":"Presentación/Empaque",
+                "detalle":"Botella"
+            },
+            {
+                "titulo":"Porción Sugerida",
+                "detalle":"14g"
+            },
+            {
+                "titulo":"Azúcares por porción",
+                "detalle":"0g"
+            },
+            {
+                "titulo":"Calorías por porción",
+                "detalle":"130kCal"
+            },
+            {
+                "titulo":"Descripción Nutricional",
+                "detalle":"Aceite vegetal"
+            },
+            {
+                "titulo":"Grasas por porción",
+                "detalle":"14g"
+            },
+            {
+                "titulo":"Composición/Origen",
+                "detalle":"Aceite 100% vegetal"
+            },
+            {
+                "titulo":"Advertencias de almacenamiento",
+                "detalle":"Consérvese en recipiente cerrado, en lugar fresco, seco y seguro"
+            },
+            {
+                "titulo":"Contenido Neto",
+                "detalle":"900ml"
+            }
+        ]       
+    },
+    {
+        "id":8,
+        "descripcion":[
+            {
+                "titulo":"Presentación/Empaque",
+                "detalle":"Bolsa"
+            },
+            {
+                "titulo":"Producto Preparado",
+                "detalle":"Si"
+            },
+            {
+                "titulo":"Arroz Pregraneado",
+                "detalle":"No"
+            },
+            {
+                "titulo":"Calorías por porción",
+                "detalle":"0"
+            },
+            {
+                "titulo":"Carbohidratos Por Porción",
+                "detalle":"0"
+            },
+            {
+                "titulo":"Advertencias de almacenamiento",
+                "detalle":"Almacenar en un lugar cerrado, fresco y seco"
+            },
+            {
+                "titulo":"Contenido Neto",
+                "detalle":"5kg"
+            }
+        ]       
+    },
+    {
+        "id":9,
+        "descripcion":[
+            {
+                "titulo":"Denominación/variedad",
+                "detalle":"Rubia"
+            }
+        ]       
+    },
+    {
+        "id":10,
+        "descripcion":[
+            {
+                "titulo":"Presentación/Empaque",
+                "detalle":"Paquete"
+            },
+            {
+                "titulo":"Relleno",
+                "detalle":"Pasta sabor chocolate"
+            },
+            {
+                "titulo":"Descripción Técnica",
+                "detalle":"Galletas sabor a vainilla bañadas con pasta sabor chocolate"
+            },
+            {
+                "titulo":"Unidades por paquete",
+                "detalle":"6"
+            },
+            {
+                "titulo":"Porción Sugerida",
+                "detalle":"15g"
+            },
+            {
+                "titulo":"Alergénos Declarados",
+                "detalle":"Contiene soya y leche. Puede contener maní y nueces de árbol"
+            },
+            {
+                "titulo":"Azúcares por porción",
+                "detalle":"5.4g"
+            },
+            {
+                "titulo":"Calorías por porción",
+                "detalle":"70kCal"
+            },
+            {
+                "titulo":"Contenido Neto",
+                "detalle":"180g"
+            },
+            {
+                "titulo":"Denominación/variedad",
+                "detalle":"Morochas"
             }
         ]       
     }
